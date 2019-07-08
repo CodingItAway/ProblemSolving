@@ -1,4 +1,4 @@
-package com.ProblemSolving;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
